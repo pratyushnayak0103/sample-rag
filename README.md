@@ -14,12 +14,12 @@ pip install transformers faiss-cpu sentence-transformers
 ✅ Step 1: Prepare Knowledge Base (Documents)
 Let's simulate a small knowledge base.
 
-documents = [
-    "The Eiffel Tower is located in Paris.",
-    "The Great Wall of China is visible from space.",
-    "The capital of France is Paris.",
-    "Python is a popular programming language for AI.",
-    "Transformers are deep learning models used in NLP."
+            documents = [
+                "The Eiffel Tower is located in Paris.",
+                "The Great Wall of China is visible from space.",
+                "The capital of France is Paris.",
+                "Python is a popular programming language for AI.",
+                "Transformers are deep learning models used in NLP."
 ]
 ✅ Step 2: Create a python file create_index.py which will be used for embedding the document knowledge source to vector database.
 
