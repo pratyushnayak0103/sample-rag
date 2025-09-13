@@ -1,0 +1,4 @@
+Paris is the capital city of France.
+The Eiffel Tower is located in Paris.
+Python is a popular programming language.
+The Great Wall of China is visible from space.
